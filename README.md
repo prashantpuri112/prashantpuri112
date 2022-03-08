@@ -16,7 +16,7 @@
 <a href="https://twitter.com/theprashantpuri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theprashantpuri" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prashantpuri123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantpuri123" height="30" width="40" /></a>
 <a href="https://instagram.com/prashantpuriofficial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prashantpuriofficial" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/prashant puri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prashant puri" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCOD0DWP7ypWlSxka7LqKqDA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="prashant puri" height="30" width="40" /></a>
 <a href="https://discord.gg/Dancho#9288" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dancho#9288" height="30" width="40" /></a>
 </p>
 
