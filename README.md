@@ -2,7 +2,7 @@
 Throughout my journey as a programmer, I have been adding different types of an attribute to my skill for the past few years. I can work with multiple programming languages like JavaScript, Java, C, and python with intermediate skills.<br><br>🌱 I’m currently learning Core JavaScript<br>📫 How to reach me ppuri7069@gmail.com
 
 
-[![](https://visitcount.itsvg.in/api?id=prashantpuri112&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prashantpurii) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantpuri123) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ppuri7069) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ThePrashantPuri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCOD0DWP7ypWlSxka7LqKqDA) 
