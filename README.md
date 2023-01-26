@@ -1,7 +1,6 @@
 # 💫 About Me:
 Throughout my journey as a programmer, I have been adding different types of an attribute to my skill for the past few years. I can work with multiple programming languages like JavaScript, Java, C, and python with intermediate skills.<br><br>🌱 I’m currently learning Core JavaScript<br>📫 How to reach me ppuri7069@gmail.com
 
-
 [![](https://visitcount.itsvg.in/api?id=prashantpuri112&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
